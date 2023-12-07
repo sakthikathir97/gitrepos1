@@ -1,0 +1,1 @@
+github->gitcopyfolder(.git)->working folder(local repositary)->staging area
